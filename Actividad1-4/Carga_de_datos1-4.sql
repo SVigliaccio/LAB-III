@@ -8,7 +8,7 @@ INSERT INTO Ciudades (ID_Ciudad, ID_Pais, Nombre_Ciudad) VALUES (1, 54, 'Cordoba
 GO
 SET DATEFORMAT 'DMY'
 INSERT INTO Colaboradores (Apellido, Nombre, Mail, Celular, Fecha_Nacimiento, Tipo_Colaborador, Domicilio, ID_Ciudad) 
-VALUES ('Achaval Duria','Joaquin',NULL,'(387) 962-2847', '3/5/1968', 'I','Obispo Lagorio 3548',1), 
+VALUES
 ('Achaval Duria','Joaquin',NULL,'(387) 962-2847', '3/5/1968', 'I','Obispo Lagorio 3548',1),
 ('Alpuin Schunk','Leonardo Ezequiel','lalpuin@notmyrealmail.com',NULL,'31/1/1993','I','Teniente De Amos 1067',1),
 ('Arostegui','Isidoro','iarostegui@nasa.gov','(695) 920-0076','12/1/1999','I','Virrey Kloster 9440',2),
